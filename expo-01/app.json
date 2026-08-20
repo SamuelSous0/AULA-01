@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "owner": "",
+    "owner": "samuelsous0s-team",
     "scheme": "expo01",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -44,6 +44,18 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "efc56456-f5e9-407d-bf4b-2de2ac8d694b"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/efc56456-f5e9-407d-bf4b-2de2ac8d694b"
     }
   }
 }
